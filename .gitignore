@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+conversion_modules/__pycache__/
+conversion_modules/__pycache__/json_to_csv.cpython-37.pyc
+conversion_modules/__pycache__/mcsv_to_xlsx.cpython-37.pyc
