@@ -1,0 +1,10 @@
+{
+    "name":"Mr.Meekseeks",
+    "age":20,
+    "date of birth":"08/05/1999",
+    "skills":{
+        "skill1":"sleeping",
+        "skill1_percentage":"90%",
+        "skill1_disadvandage":"causes plague"
+    }
+}
